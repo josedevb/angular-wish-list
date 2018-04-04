@@ -44,7 +44,7 @@ export class HomeComponent implements OnInit {
     this._data.changeGoal(this.goals);
   }
 
-  private addItem(): void {
+  public addItem(): void {
     this.goals.push(this.goalText);
     this.goalText = '';
     this.itemCount = this.goals.length;
