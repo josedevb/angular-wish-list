@@ -4,7 +4,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Live Preview
 
-Test the live preview of the app [DemoURL](https://jozekcore.github.io/angular-wish-list/)
+Test the live preview of the app [DemoURL](https://josedevb.github.io/angular-wish-list/)
+
+# Demo
+
+![wish-list-gif](https://github.com/user-attachments/assets/a2c2a52f-76d2-4c7b-9520-1b97ac0cdb14)
+
 
 ## Development server
 
